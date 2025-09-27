@@ -1,8 +1,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JasonSalon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JasonSalon"
-  width="1000"
-  height="300"
+  width="1200"
+  height="500"
 />
 </a>
   
